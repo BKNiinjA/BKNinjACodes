@@ -8,4 +8,5 @@
 
 ##### You're a blessed child
 
-* command git push 
+* command git push
+* command git pull
