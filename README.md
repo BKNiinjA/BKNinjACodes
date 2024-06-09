@@ -7,3 +7,5 @@
 #### Saving modifications on Git 
 
 ##### You're a blessed child
+
+* command git push 
