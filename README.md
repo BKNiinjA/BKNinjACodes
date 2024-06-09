@@ -12,3 +12,4 @@
 * command git pull
 * command git fetch
 * command you have succesful
+* you will be a rich, powerfull, strong and wise man.
