@@ -13,3 +13,4 @@
 * command git fetch
 * command you have succesful
 * you will be a rich, powerfull, strong and wise man.
+* just conitnue in you own way doing things with the wisdowm that god has give you
